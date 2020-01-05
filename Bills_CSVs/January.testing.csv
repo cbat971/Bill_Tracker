@@ -1,0 +1,4 @@
+,Index,Rent,Haley_car,Chris_car,Phones,Power,Charter,Haley_insurance,Chris_insurance,Daycare1,Daycare2,Food1,Food2,Food3,Food4
+Day,Day,2020-1-1,2020-1-10,2020-1-17,2020-01-25,2020-1-13,2020-01-25,2020-1-17,2020-01-25,2020-01-11,2020-01-25,2020-01-04,2020-01-11,2020-01-18,2020-01-25
+Amount,Amount,775,230,330,350,140,75,208,150,50,50,140,140,140,140
+Paid,Paid,False,False,False,False,False,False,False,False,False,False,False,False,False,False
